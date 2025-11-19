@@ -30,8 +30,8 @@ def log(a, b):
         raise ValueError
     return logarithm
 
-def exp(a, b):
-    exponent = a ^^ b
+def expn(a, b):
+    exponent = a ** b
     return exponent
 
 
